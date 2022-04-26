@@ -1,0 +1,14 @@
+div.content {
+    background-color: lightgray;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+div.block {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.hidden {
+    display: none;
+}
